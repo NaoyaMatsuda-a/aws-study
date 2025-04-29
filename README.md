@@ -38,6 +38,19 @@ VPC、サブネット、インターネットゲートウェイ（IGW）、EC2�
 
 ---
 
+## ssh接続画面
+![スクリーンショット 2025-04-29 012026](https://github.com/user-attachments/assets/e4b9350e-601c-4b2a-9066-94012be0cd1b)
+![スクリーンショット 2025-04-29 012049](https://github.com/user-attachments/assets/aa7dc343-7d26-4582-97c8-5dedc0d2ebbc)
+
+
+---
+
+## WEBページ表示確認画面
+![スクリーンショット 2025-04-29 012139](https://github.com/user-attachments/assets/47bd5b34-977d-4e5e-a403-c98df284f1d3)
+
+
+---
+
 ## 学び・気づき
 - パブリックサブネットに正しくルートテーブルを関連付けないと、インターネット接続できない。
 - セキュリティグループ設定を忘れると、SSH接続やHTTPアクセスができない。
